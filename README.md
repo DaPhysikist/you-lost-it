@@ -4,7 +4,6 @@ YouLostIt Project
 
 P1: <br>
 Video file is called blinkenlights.mp4 <br>
-Last four digits of student ID number: 3782 <br>
 
 P2: <br>
 Group member names: Pranav Mehta and Christian Velasquez <br>
